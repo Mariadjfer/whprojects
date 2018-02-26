@@ -1,0 +1,37 @@
+body {
+  background-color: black;
+  color: #f8f4f4;
+  font-family: cursive;
+}
+
+nav {
+  border: 10px dashed white;
+}
+
+ul {
+  background-color: black;
+}
+
+header {
+  display: flex;
+}
+
+main {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+article {
+  width: 75%;
+  background-color: black;
+}
+
+aside {
+  widows: 25%;
+}
+
+section {
+  width: 100%;
+  background-color: gray;
+}
+/*# sourceMappingURL=style.css.map */

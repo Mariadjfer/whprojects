@@ -1,0 +1,36 @@
+body {
+    background-color: black;color:rgb(248, 244, 244);
+    font-family: cursive;
+}
+
+nav{
+    border:10px dashed white;
+}
+
+ul {
+    background-color:transparentize($color: #000000, $amount: 0);
+    
+}
+
+header{
+    display:flex;
+}
+main{
+    display: flex;
+    flex-wrap: wrap;
+    
+
+}
+article {
+    width:75%;
+    background-color:transparentize($color: #000000, $amount: 0);
+    // float:
+}
+aside{
+    widows: 25%;
+    // float: left;
+}
+section{
+    width: 100%;
+    background-color:gray;
+}

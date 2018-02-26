@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+}
+
+header {
+  background-image: url("../images/banner.jpg");
+  background-size: cover;
+}
+
+nav {
+  background-color: #121212;
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+/*# sourceMappingURL=template.css.map */
